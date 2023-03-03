@@ -1,1 +1,3 @@
-# RCS-tarea-6
+# Trying Bootstrap
+## RollingCode School
+[Link](https://bootstrap-example-rsc-jmf.netlify.app/)
